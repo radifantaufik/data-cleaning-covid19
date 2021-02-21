@@ -11,3 +11,5 @@ This is the step that I did on COVID19 Vaccination Dataset:
 2.  After we know what this dataset tells us about, then we can perform Handling Missing Values procedures. In this code, I performed two ways on how to fill the missing values, there are drop the rows/columns and fill the missing values with the data-pattern that I found in the column.
 
 All the details analytics and action performing 'Handling Missing Values' is in the other files
+
+You can download the files in this link : https://www.kaggle.com/gpreda/covid-world-vaccination-progress
