@@ -1,3 +1,0 @@
-To run this code we need to import only two libraries, Numpy and Pandas. Here are the steps :
-1. Try to get any informations as much as you can from the dataset. Here I try to take a brief look with .head() and .describe() and .size().
-2. Find the missing values in this dataset. 
